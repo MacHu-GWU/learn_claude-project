@@ -6,6 +6,8 @@ Claude Project Components
 ------------------------------------------------------------------------------
 Claude Projects are designed to streamline your workflow and enhance collaboration by offering structured components that cater to different needs. Here’s an overview of the four key components that make up a Claude Project:
 
+.. image:: ./claude-project-ui.png
+
 1. **Claude Project Name**
 
 The Project Name is a user-friendly identifier for your Claude Project. This name appears in the Claude Project List in the user interface, making it easy to locate and manage projects. Additionally, the Project Name supports search functionality within the UI, enabling quick access to specific projects with minimal effort.
