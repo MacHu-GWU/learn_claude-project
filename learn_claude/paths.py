@@ -25,3 +25,4 @@ dir_unit_test = dir_project_root / "tests"
 # Assets
 # ------------------------------------------------------------------------------
 path_claude_icon = dir_here.joinpath("assets", "claude-icon.png")
+path_chatgpt_icon = dir_here.joinpath("assets", "chatgpt-icon.png")

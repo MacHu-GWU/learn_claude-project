@@ -48,6 +48,8 @@ Example (efg = Bank Portal Project)::
 
     abc work efg proj | Bank Portal Project | code review
 
+Color Code: :orange:`Work`
+
 
 For Git Repository Specific Development Assistants
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -59,6 +61,8 @@ For this ``learn_claude`` project, I use::
 
     gh | MacHu-GWU/learn_claude | everything
 
+Color Code: :green:`Git Repository`
+
 
 For General Tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,3 +73,5 @@ If the Claude Project is a standalone utility not tied to a specific job or proj
 For example::
 
     tool | text summary
+
+Color Code: :blue:`Tool`

@@ -56,3 +56,10 @@ This is how it looks like in use:
 .. note::
 
     The core utility behind this enhanced functionality is the `Alfred Full Text Search Anything <https://github.com/MacHu-GWU/afwf_fts_anything-project>`_ plugin, which I developed. For detailed instructions on using the plugin, refer to its official documentation.
+
+
+Bonus
+------------------------------------------------------------------------------
+This launcher also supports `ChatGPT Projects <https://help.openai.com/en/articles/10169521-using-projects-in-chatgpt>`_!
+
+.. image:: ./chatgpt-project-1.png
