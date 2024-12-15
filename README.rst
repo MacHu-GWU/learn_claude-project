@@ -23,4 +23,4 @@ Welcome to ``learn_claude`` Documentation
 .. image:: https://learn-claude.readthedocs.io/en/latest/_static/learn_claude-logo.png
     :target: https://learn-claude.readthedocs.io/en/latest/
 
-我在使用 Claude Project 功能时的经验总结.
+Learn Claude is a comprehensive guide to unlocking the secrets of maximizing productivity and creativity with Claude AI. Based on real-world experience and extensively applied in practice, this guide is created by a solo IT business owner who leverages Claude AI across all facets of their business. From Business Development and Product Development to Coding, Digital Marketing, Sales, Accounting, and Legal work, this project showcases how Claude AI can transform the way you work and innovate.
