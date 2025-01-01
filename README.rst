@@ -24,3 +24,7 @@ Welcome to ``learn_claude`` Documentation
     :target: https://learn-claude.readthedocs.io/en/latest/
 
 Learn Claude is a comprehensive guide to unlocking the secrets of maximizing productivity and creativity with Claude AI. Based on real-world experience and extensively applied in practice, this guide is created by a solo IT business owner who leverages Claude AI across all facets of their business. From Business Development and Product Development to Coding, Digital Marketing, Sales, Accounting, and Legal work, this project showcases how Claude AI can transform the way you work and innovate.
+
+NOTE
+
+    All documents in this project were written by Claude AI under human instruction and have been reviewed by a human.
